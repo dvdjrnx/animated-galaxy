@@ -4,7 +4,7 @@
 
 This project explores particle systems and animation in 3D and handling hundreds of thousands of particle instances in the browser. It was created with Three.js and React Three Fiber.
 
-It features a whirling galaxy with distinct branches. The branches become more homogenous as the animation plays out. In the upper-right corner is a GUI that allows users to dynamically multiple parameters for the scene, including colors, size, branches, and particle count.
+It features a whirling galaxy with distinct branches. The branches become more homogenous as the animation plays out. In the upper-right corner is a GUI that allows users to dynamically adjust multiple parameters for the scene, including colors, size, branches, and particle count.
 
 The work was undertaken as one of many steps in acquiring [my Three.js certification](https://threejs-journey.com/certificate/view/24741) through [Three.js Journey](https://threejs-journey.com/).
 
