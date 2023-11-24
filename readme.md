@@ -1,6 +1,6 @@
 # Animated Galaxy
 
-![A whirling orange and yellow galaxy appears against the black backdrop of space.](./static/animated-galaxy.png)
+![A whirling orange and yellow galaxy appears against the black backdrop of space.](./static/animated-galaxy.jpg)
 
 This project explores particle systems and animation in 3D and handling hundreds of thousands of particle instances in the browser. It was created with Three.js and React Three Fiber.
 
